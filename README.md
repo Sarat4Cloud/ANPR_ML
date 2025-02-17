@@ -27,7 +27,7 @@ ANPR-Project/
 **Step 1: Install Required Software**
 Before we begin, make sure you have the following installed:
 Python 3.8+ → Download from Python Official Site
- pip (Package Manager) → Comes with Python installation
+pip (Package Manager) → Comes with Python installation
 Git 
 
 **Step 2: Setup Project Folder**
