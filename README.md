@@ -21,6 +21,9 @@ ANPR-Project/
 
 │── README.md                # Project documentation
 
+
+                     **Step - By - Step Installation Guide**
+
 **Step 1: Install Required Software**
 Before we begin, make sure you have the following installed:
 Python 3.8+ → Download from Python Official Site
