@@ -22,7 +22,7 @@ ANPR-Project/
 │── README.md                # Project documentation
 
 
-                     **Step - By - Step Installation Guide**
+**Step - By - Step Installation Guide**
 
 **Step 1: Install Required Software**
 Before we begin, make sure you have the following installed:
@@ -54,7 +54,7 @@ Open Command Prompt (Windows)) and run:
 •	Flask → Web framework
 •	SQLite (via SQLAlchemy) → Database integration
 
-**Step 5: Download YOLOv8 Pretrained Model **
+**Step 5: Download YOLOv8 Pretrained Model**
 Since YOLOv8 is used for plate detection, you need to download its model.
 Run the following command:
 --yolo task=detect mode=predict model=yolov8n.pt source="bus.jpg"
