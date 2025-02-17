@@ -2,14 +2,23 @@
 
 **Recommended Folder Structure**
 ANPR-Project/
-│── anpr_env/                  # virtual environment 
-│── static/                  # Stores images, CSS, JS files 
+
+│── anpr_env/                  # virtual environment
+
+│── static/                  # Stores images, CSS, JS files
+
 │── templates/               # HTML templates for Flask UI (Index.html and Records.html)
+
 │── yolov8n.pt/                  # Stores trained YOLO model files
+
 │── dataset/                 # Training dataset for YOLO
+
 │── instance/                 # container for SQLLite Database
+
 │── app.py                  # Main Flask application
+
 │── database.py              # Database handling file (SQLite)
+
 │── README.md                # Project documentation
 
 **Step 1: Install Required Software**
