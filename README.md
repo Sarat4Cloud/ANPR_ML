@@ -1,6 +1,12 @@
 
 
 # **Automatic Number Plate Recognition (ANPR) with Machine Learning: YOLO, Easy-OCR, and Flask**
+Automatic Number Plate Recognition (ANPR) is a transformative technology within Intelligent Transportation Systems (ITS), facilitating advancements in traffic management, law enforcement, and parking solutions. The core of ANPR technology involves capturing and processing images of vehicle license plates to extract and identify text data. The evolution of deep learning has significantly enhanced ANPR systems, leveraging sophisticated algorithms to improve both accuracy and efficiency.
+
+
+**Implementation**
+
+****Step - By - Step Installation Guide****
 
 **Recommended Folder Structure**
 ANPR-Project/
@@ -24,7 +30,7 @@ ANPR-Project/
 │── README.md                # Project documentation
 
 
-****Step - By - Step Installation Guide****
+
 
 **Step 1: Install Required Software**
 Before we begin, make sure you have the following installed:
