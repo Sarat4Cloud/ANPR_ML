@@ -1,6 +1,6 @@
-#Automatic Number Plate Recognition (ANPR) with Machine Learning: YOLO, Easy-OCR, and Flask
 
-# ANPR_ML
+
+# **Automatic Number Plate Recognition (ANPR) with Machine Learning: YOLO, Easy-OCR, and Flask**
 
 **Recommended Folder Structure**
 ANPR-Project/
