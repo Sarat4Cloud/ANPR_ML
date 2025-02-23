@@ -22,7 +22,7 @@ ANPR-Project/
 │── README.md                # Project documentation
 
 
-******Step - By - Step Installation Guide**
+****Step - By - Step Installation Guide****
 
 **Step 1: Install Required Software**
 Before we begin, make sure you have the following installed:
